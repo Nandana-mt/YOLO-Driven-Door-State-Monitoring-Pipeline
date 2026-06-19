@@ -252,6 +252,28 @@ LAST CLOSED:
 
 ---
 
+## References
+## References
+
+1. Ultralytics YOLOv8 Documentation
+   https://docs.ultralytics.com
+
+2. YOLOv8 GitHub Repository
+   https://github.com/ultralytics/ultralytics
+
+3. OpenCV Documentation
+   https://docs.opencv.org
+
+4. PyTorch Documentation
+   https://pytorch.org/docs
+
+5. FFmpeg Documentation
+   https://ffmpeg.org/documentation.html
+
+6. RTSP Protocol Overview
+   https://datatracker.ietf.org/doc/html/rfc2326
+
+---
 ## Author
 
 **Nandana MT**
